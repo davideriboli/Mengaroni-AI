@@ -1,6 +1,6 @@
 {
   "vaultName": "Ex-Machina",
-  "lastExport": 1745679141846,
+  "lastExport": 1745916812268,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-ribbon minimal-nord-light minimal-nord-dark minimal-line-nums minimal-readable minimal-light-contrast minimal-dark-tonal colorful-headings colorful-frame colorful-active links-int-on links-ext-on full-width-media full-file-names labeled-nav",
   "useCustomHeadContent": false,
@@ -11,6 +11,7 @@
     "000-Corsi/Mengaroni-2025/Incontro-02.md",
     "000-Corsi/Mengaroni-2025/Incontro-03.md",
     "000-Corsi/Mengaroni-2025/Incontro-04.md",
+    "000-Corsi/Mengaroni-2025/Incontro-05.md",
     "000-Corsi/Mengaroni-2025/ProgrammaMengaroni.pdf",
     "000-Corsi/Mengaroni-2025/WhatIsGenerativeArt-Galanter.pdf",
     "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/Elysia Redwood.png",
@@ -82,8 +83,19 @@
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/ImmaginiFotorealistiche.md",
     "002-ComfyUI-StableDiffusion/03-WorkflowAvanzati/Materiali/AnimaOggetti.7z",
     "002-ComfyUI-StableDiffusion/03-WorkflowAvanzati/Animare Oggetti.md",
+    "003-Suoni/Suno/Suno.md",
+    "003-Suoni/Udio/Goldenhair_01.mp3",
+    "003-Suoni/Udio/Goldenhair_02.mp3",
+    "003-Suoni/Udio/Udio.md",
     "004-Cloud/DifferenzePromptSoraDallE.md",
     "004-Cloud/KlingAI.md",
+    "099-ObsidianTools/Templates/Post Base.md",
+    "099-ObsidianTools/Templates/GPTs.md",
+    "099-ObsidianTools/Varia/PluginList.md",
+    "099-ObsidianTools/Combinazioni di tastiera.md",
+    "index.md",
+    "Pygmalion_and_Galatea_01.jpg",
+    "Pygmalion_and_Galatea_02.jpg",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -117,553 +129,625 @@
   ],
   "fileInfo": {
     "000-Corsi/Mengaroni-2025/DoublePendulumLightPainting.jpg": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 38688,
       "exportedPath": "000-Corsi/Mengaroni-2025/DoublePendulumLightPainting.jpg",
       "dependencies": []
     },
     "000-Corsi/Mengaroni-2025/Incontro-01.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 2267,
       "exportedPath": "000-Corsi/Mengaroni-2025/Incontro-01.html",
       "dependencies": []
     },
     "000-Corsi/Mengaroni-2025/Incontro-02.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1247,
       "exportedPath": "000-Corsi/Mengaroni-2025/Incontro-02.html",
       "dependencies": []
     },
     "000-Corsi/Mengaroni-2025/Incontro-03.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1565,
       "exportedPath": "000-Corsi/Mengaroni-2025/Incontro-03.html",
       "dependencies": []
     },
     "000-Corsi/Mengaroni-2025/Incontro-04.md": {
-      "modifiedTime": 1745679141846,
-      "sourceSize": 538,
+      "modifiedTime": 1745916812268,
+      "sourceSize": 754,
       "exportedPath": "000-Corsi/Mengaroni-2025/Incontro-04.html",
       "dependencies": []
     },
+    "000-Corsi/Mengaroni-2025/Incontro-05.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 367,
+      "exportedPath": "000-Corsi/Mengaroni-2025/Incontro-05.html",
+      "dependencies": []
+    },
     "000-Corsi/Mengaroni-2025/ProgrammaMengaroni.pdf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 512491,
       "exportedPath": "000-Corsi/Mengaroni-2025/ProgrammaMengaroni.pdf",
       "dependencies": []
     },
     "000-Corsi/Mengaroni-2025/WhatIsGenerativeArt-Galanter.pdf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1053794,
       "exportedPath": "000-Corsi/Mengaroni-2025/WhatIsGenerativeArt-Galanter.pdf",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/Elysia Redwood.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 781452,
       "exportedPath": "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/Elysia Redwood.png",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/ElysiaRedwoodBackground.jpg": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 523299,
       "exportedPath": "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/ElysiaRedwoodBackground.jpg",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/FritzBenner.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 877422,
       "exportedPath": "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/FritzBenner.png",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/FritzBennerBackground.jpg": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1698680,
       "exportedPath": "001-ChatBot/001-BackyardAI/SchedePersonaggio/Imgs/FritzBennerBackground.jpg",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/SchedePersonaggio/Elysia Redwood.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 6446,
       "exportedPath": "001-ChatBot/001-BackyardAI/SchedePersonaggio/Elysia Redwood.html",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/SchedePersonaggio/Fritz Benner.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 6623,
       "exportedPath": "001-ChatBot/001-BackyardAI/SchedePersonaggio/Fritz Benner.html",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/002-CreazionePersonaggi.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1062,
       "exportedPath": "001-ChatBot/001-BackyardAI/002-CreazionePersonaggi.html",
       "dependencies": []
     },
     "001-ChatBot/001-BackyardAI/001-Introduzione-a-BackyardAI.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 5551,
       "exportedPath": "001-ChatBot/001-BackyardAI/001-Introduzione-a-BackyardAI.html",
       "dependencies": []
     },
     "001-ChatBot/002-GPT4ALL/Imgs/gpt4all_home.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 512537,
       "exportedPath": "001-ChatBot/002-GPT4ALL/Imgs/gpt4all_home.png",
       "dependencies": []
     },
     "001-ChatBot/002-GPT4ALL/002-GPT4ALL.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 4860,
       "exportedPath": "001-ChatBot/002-GPT4ALL/002-GPT4ALL.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-comfy.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 2840,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-comfy.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-processing-link.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1487,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-processing-link.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-prompt.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 4769,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-prompt.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-td-01.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 2723,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-td-01.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-td-link.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1979,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-td-link.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-vcvrack-link.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1783,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Conoscenza/artisan-risorse-vcvrack-link.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Artisan-Quantum.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 10628,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Artisan-Quantum.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Artisan Quantum.webp": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1096820,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Artisan Quantum.webp",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Manuale Artisan Quantum.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 5036,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Artisan-Quantum/Manuale Artisan Quantum.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Edwood.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 78867,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Edwood.png",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Edwood.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 4185,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Edwood.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Manuale Edwood.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 3307,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/Edwood/Manuale Edwood.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/CodePress-Master.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 5193,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/CodePress-Master.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/DR-GPTs/TriCOD3r.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 3394,
       "exportedPath": "001-ChatBot/003-ChatGPT/DR-GPTs/TriCOD3r.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/A-practical-guide-to-building-agents.pdf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 7335065,
       "exportedPath": "001-ChatBot/003-ChatGPT/A-practical-guide-to-building-agents.pdf",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/000-IndiceGPTs.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 2284,
       "exportedPath": "001-ChatBot/003-ChatGPT/000-IndiceGPTs.html",
       "dependencies": []
     },
     "001-ChatBot/003-ChatGPT/minions.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 467728,
       "exportedPath": "001-ChatBot/003-ChatGPT/minions.png",
       "dependencies": []
     },
     "001-ChatBot/004-Alternative/Imgs/jan.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 371979,
       "exportedPath": "001-ChatBot/004-Alternative/Imgs/jan.png",
       "dependencies": []
     },
     "001-ChatBot/004-Alternative/Imgs/msty-hero-image-light.webp": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1052456,
       "exportedPath": "001-ChatBot/004-Alternative/Imgs/msty-hero-image-light.webp",
       "dependencies": []
     },
     "001-ChatBot/004-Alternative/Imgs/ollama.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 308710,
       "exportedPath": "001-ChatBot/004-Alternative/Imgs/ollama.png",
       "dependencies": []
     },
     "001-ChatBot/004-Alternative/Imgs/Oobabooga_UI-2.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 30030,
       "exportedPath": "001-ChatBot/004-Alternative/Imgs/Oobabooga_UI-2.png",
       "dependencies": []
     },
     "001-ChatBot/004-Alternative/Imgs/sillytavern.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1004286,
       "exportedPath": "001-ChatBot/004-Alternative/Imgs/sillytavern.png",
       "dependencies": []
     },
     "001-ChatBot/004-Alternative/003-Alternative.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 4748,
       "exportedPath": "001-ChatBot/004-Alternative/003-Alternative.html",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/Imgs/Gibson.webp": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 166404,
       "exportedPath": "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/Imgs/Gibson.webp",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/000 - Introduzione a Stable Diffusion.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 6316,
       "exportedPath": "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/000 - Introduzione a Stable Diffusion.html",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/001 - Richieste Hardware.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1766,
       "exportedPath": "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/001 - Richieste Hardware.html",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/002 - Generatori On Line.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1779,
       "exportedPath": "002-ComfyUI-StableDiffusion/00-PrincipiantiAssoluti/002 - Generatori On Line.html",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/EmptyLatent.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 28493,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/EmptyLatent.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/nodocheckpoint.webp": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 17386,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/nodocheckpoint.webp",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/nodoesempio.webp": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 34316,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/nodoesempio.webp",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/queue.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 18245,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/queue.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/vae.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 17631,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/vae.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/WorkflowBase.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 286207,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/WorkflowBase.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/workflowdisponibili.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 672888,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/Imgs/workflowdisponibili.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/000-CheCosaÈComfyUI.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 2175,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/000-CheCosaÈComfyUI.html",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/001-IlPrimoWorkflow.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 3404,
       "exportedPath": "002-ComfyUI-StableDiffusion/01-IntroduzioneAComfyUI/001-IlPrimoWorkflow.html",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/01.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 14082,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/01.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/02.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 30577,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/02.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/03.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 230847,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/03.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/04.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 101965,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/04.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/05.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 120407,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/05.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/06a.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 952681,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/06a.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/06b.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 905977,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/06b.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07a.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 887650,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07a.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07b.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 924178,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/07b.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/08.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 758965,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/08.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/09.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 838175,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/09.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/10.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 850835,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/10.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/11.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 833339,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/11.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/12.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 905640,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/12.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/13.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 843086,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/13.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/14.png": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1388932,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/ImmaginiFotorealisitiche/14.png",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/LTX-img2vid.zip": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 3103,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/LTX-img2vid.zip",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/LTX-txt2vid.zip": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 2488,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/LTX-txt2vid.zip",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/SfondoTrasparente.zip": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 199327,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/SfondoTrasparente.zip",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/Touchdesigner.zip": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 392192,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/Imgs/Touchdesigner.zip",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/02-WorkflowBase/ImmaginiFotorealistiche.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 8804,
       "exportedPath": "002-ComfyUI-StableDiffusion/02-WorkflowBase/ImmaginiFotorealistiche.html",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/03-WorkflowAvanzati/Materiali/AnimaOggetti.7z": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 6895630,
       "exportedPath": "002-ComfyUI-StableDiffusion/03-WorkflowAvanzati/Materiali/AnimaOggetti.7z",
       "dependencies": []
     },
     "002-ComfyUI-StableDiffusion/03-WorkflowAvanzati/Animare Oggetti.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 1958,
       "exportedPath": "002-ComfyUI-StableDiffusion/03-WorkflowAvanzati/Animare Oggetti.html",
       "dependencies": []
     },
+    "003-Suoni/Suno/Suno.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 2820,
+      "exportedPath": "003-Suoni/Suno/Suno.html",
+      "dependencies": []
+    },
+    "003-Suoni/Udio/Goldenhair_01.mp3": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 3152608,
+      "exportedPath": "003-Suoni/Udio/Goldenhair_01.mp3",
+      "dependencies": []
+    },
+    "003-Suoni/Udio/Goldenhair_02.mp3": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 3152594,
+      "exportedPath": "003-Suoni/Udio/Goldenhair_02.mp3",
+      "dependencies": []
+    },
+    "003-Suoni/Udio/Udio.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 3412,
+      "exportedPath": "003-Suoni/Udio/Udio.html",
+      "dependencies": []
+    },
     "004-Cloud/DifferenzePromptSoraDallE.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 5020,
       "exportedPath": "004-Cloud/DifferenzePromptSoraDallE.html",
       "dependencies": []
     },
     "004-Cloud/KlingAI.md": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 11754,
       "exportedPath": "004-Cloud/KlingAI.html",
       "dependencies": []
     },
+    "099-ObsidianTools/Templates/Post Base.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 144,
+      "exportedPath": "099-ObsidianTools/Templates/Post Base.html",
+      "dependencies": []
+    },
+    "099-ObsidianTools/Templates/GPTs.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 728,
+      "exportedPath": "099-ObsidianTools/Templates/GPTs.html",
+      "dependencies": []
+    },
+    "099-ObsidianTools/Varia/PluginList.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 4559,
+      "exportedPath": "099-ObsidianTools/Varia/PluginList.html",
+      "dependencies": []
+    },
+    "099-ObsidianTools/Combinazioni di tastiera.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 449,
+      "exportedPath": "099-ObsidianTools/Combinazioni di tastiera.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 1466,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Pygmalion_and_Galatea_01.jpg": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 2149981,
+      "exportedPath": "Pygmalion_and_Galatea_01.jpg",
+      "dependencies": []
+    },
+    "Pygmalion_and_Galatea_02.jpg": {
+      "modifiedTime": 1745916812268,
+      "sourceSize": 907905,
+      "exportedPath": "Pygmalion_and_Galatea_02.jpg",
+      "dependencies": []
+    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1745679141846,
+      "modifiedTime": 1745916812268,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
